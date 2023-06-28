@@ -1,7 +1,7 @@
 FROM node:18-alpine
 
 # set work directory
-WORKDIR /quizardhq-frontend
+WORKDIR /frontend
 
 # copy package.json and yarn.lock
 COPY package.json yarn.lock ./

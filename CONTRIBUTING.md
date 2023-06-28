@@ -1,8 +1,8 @@
-# Contributing to Quizard (Frontend)
+# Contributing to (Frontend)
 
 <!-- Add a thank you message for new/existing contributors -->
 
-Welcome to QuizardHq! We appreciate your interest in contributing to our open-source project. Below are some guidelines to help you get started.
+Welcome! We appreciate your interest in contributing to our open-source project. Below are some guidelines to help you get started.
 
 To get an overview of the project, look at the [README.md](README.md) file.
 
@@ -52,7 +52,7 @@ We use the following tools on this codebase:
 <!-- A concise guide to finding an issue on the repo -->
 <!-- Here, you can talk about the different labels on the project and what they mean. I think you should also add that if the contributor finds a new issue, they should comment on it and get approval first -->
 
-Here's a complete list of our frontend's [open issues](https://github.com/quizardhq/frontend/issues).
+Here's a complete list of our frontend's [open issues](https://github.com/eokezie).
 
 We use labels to indicate each issue's priority, status, and beginner-friendliness. Look out for some of these labels:
 
@@ -149,7 +149,5 @@ Thanks once again for volunteering to work on this project with us. We look forw
 Have a wonderful day!
 
 Love 💚,
-
-![Quizard Logo](components/assets/logo/logo-full.svg)
 
 Frontend Team
